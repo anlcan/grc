@@ -16,7 +16,7 @@ colours=red
 regexp=^.*(FATAL|Fatal).*$
 colours=on_red
 ======
-regexp=^.*(WARNING|Warning).*$
+regexp=^.*(WARN|Warn).*$
 colours=bold yellow
 ======
 regexp=^.*(DEBUG|Debug).*$
